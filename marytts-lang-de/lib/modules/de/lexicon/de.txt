@@ -1,4 +1,4 @@
-﻿# #########################################################################
+# #########################################################################
 # Copyright 2009-2010 DFKI GmbH.
 # All Rights Reserved.  Use is subject to license terms.
 #
@@ -61,7 +61,8 @@ Abenteurerinnen '?a:-b@n-tOY-R6-RI-n@n
 Abenteurern '?a:-b@n-tOY-R6n
 Abenteurers '?a:-b@n-tOY-R6s
 Abenteurertum '?a-b@n-tOY-R6-tu:m
-Aber '?a-b6
+Aber '?a:-b6
+aber '?a:-b6
 Abfall '?ap-fal
 Abfallbeseitigung '?ap-fal-b@-zaI-tI-gUN
 Abfallentsorgung '?ap-fal-?Ent-zO6-gUN
@@ -406,6 +407,9 @@ Amtskollege '?amts-ko-le:-g@
 Amtsleiter '?amts-laI-t6
 Amtszeit '?amts-tsaIt
 Amüsement ?a-my:-z@-'ma~
+amüsieren ?a-my:-zi:-R@n
+amüsiere ?a-my:-zi:-R@
+amüsierst ?a-my:-zi:6st
 An '?an
 Anakreon ?a-na-'kRe:-o:n
 Analytikers ?a-na:-'ly:-ti:-k6s
@@ -420,9 +424,9 @@ Anciennitäten ?a~-si:-E-ni:-'tE:-t@n
 And '?E:nt
 Andabates ?an-'da:-ba:-t@s
 Andauung '?an-daU-UN
-Andere '?an-d6-R@
-Anderem '?an-d6-R@m
-Andererseits '?an-d6-R6-saIts
+Andere '?an-d@-R@
+Anderem '?an-d@-R@m
+Andererseits '?an-d@-R6-saIts
 Anders '?an-d6s
 Anderson '?an-d6-zo:n
 Andhra '?an-dRa:
@@ -598,6 +602,8 @@ Apachen ?a-'pa-tS@n
 Apartment ?a-'pa6t-m@nt
 Apartments ?a-'pa6t-m@nts
 Apfel '?a-pf@l
+Apfelkuchen '?a-pf@l-ku:-x@n
+Äpfel '?E-pf@l
 Apfelwein '?a-pf@l-vaIn
 Aphrodisiaka ?af-Ro:-di:-'zi:-a-ka:
 Aphrodisiakum ?af-Ro:-di:-'zi:-a-kUm
@@ -794,6 +800,7 @@ Attacken ?a-'ta-k@n
 Attenborough '?E-t@n-bO-rOU
 Attwenger '?at-vE-N6
 Atzenroth '?a-ts@n-Ro:t
+Aua ?aUa:
 Aubergine ?o:-bE6-'Zi:-n@
 Auch '?aUx
 Audi '?aU-di:
@@ -833,7 +840,9 @@ Aufkleber '?aUf-kle:-b6
 Aufklärung '?aUf-klE:-RUN
 Aufklärungsaktion '?aUf-klE:-RUNs-?ak-tsjo:n
 Aufkommens '?aUf-kO-m@ns
+Auflauf '?aUf-laUf
 Aufmacher '?aUf-ma-x6
+aufmachen '?aUf-ma-x@n
 Aufnahme '?aUf-na:-m@
 Aufnahmen '?aUf-na:-m@n
 Aufrechterhaltung '?aUf-RECt-?E6-hal-tUN
@@ -1049,6 +1058,8 @@ Bachmann 'bax-man
 Backblech 'bak-blEC
 Backbord 'bak-bo:6t
 Backer 'ba-k6
+Bäcker 'bE-k6
+Bäckerei bE-k@-'RaI
 Backing 'ba-kIN
 Backpfeife 'bak-pfaI-f@
 Bacon 'bEI-k@n
@@ -1100,9 +1111,9 @@ Ballhof 'bal-ho:f
 Ballungsraum 'ba-lUNs-RaUm
 Balsamico bal-'za:-mi:-Co:
 Balten 'bal-t@n
-Banane ba-'na:-n@
-Bananen ba-'na:-n@n
-Bananewäätze ba-'na:-n@-vE:-ts@
+Banane ba:-'na:-n@
+Bananen ba:-'na:-n@n
+Bananewäätze ba:-'na:-n@-vE:-ts@
 Banchetta ban-'kE-ta:
 Band 'bant
 Banditen ban-'di:-t@n
@@ -1238,6 +1249,7 @@ Beelzebub 'be:l-ts@-bu:p
 Beerdigungskosten b@-'?e:6-'di:-gUNs-kOs-t@n
 Beeren 'be:-R@n
 Beeskow 'be:s-ko:
+Beet 'be:t
 Beethoven 'be:t-ho:-v@n
 Befehl b@-'fe:l
 Befehlen b@-'fe:-l@n
@@ -1307,7 +1319,7 @@ Belgrader 'bEl-gRa:-d6
 Beliebens b@-'li:-b@ns
 Beliebt b@-'li:pt
 Beliebtheit b@-'li:pt-haIt
-Belindas bE-'lIn-da:s
+Belindas bE-'lIn-das
 Belleau bE-'lo:
 Bellen 'bE-l@n
 Belohnung b@-'lo:-nUN
@@ -1390,7 +1402,7 @@ Beschleunigung b@-'SlOY-ni:-gUN
 Beschluss b@-'SlUs
 Beschreibung b@-'SRaI-bUN
 Beschuss b@-'SUs
-Beschwerdetelefon b@-'SvE6-d@-te:-l@-fo:n
+Beschwerdetelefon b@-'SvE:6-d@-te:-l@-fo:n
 Beschädigung b@-'SE:-di:-gUN
 Beschäftigte b@-'SEf-tIC-t@
 Beschäftigten b@-'SEf-tIC-t@n
@@ -1743,6 +1755,10 @@ Bratäpfel 'bRa:t-?E-pf@l
 Brauch 'bRaUx
 Braun 'bRaUn
 Braunschweiger 'bRaUn-SvaI-g6
+Braut 'bRaUt
+Brautkleid 'bRaUt-klaIt
+Bräute'bROYt@
+Brautstrauß 'bRaUt-StRaUs
 Brauypsilon 'bRaU-?y:-psi:-lOn
 Break 'brEIk
 Breaker 'brEI-k6
@@ -1814,6 +1830,9 @@ Bube 'bu:-b@
 Bubi 'bu:-bi:
 Bubikopf 'bu:-bi:-kOpf
 Buch 'bu:x
+Buchung 'bu:-xUN
+buchen 'bu:-x@n
+buche 'bu:-x@
 Buchausstellung 'bu:x-?aUs-StE-lUN
 Buchautor 'bu:x-?aU-to:6
 Buchhandlungen 'bUx-hant-lU-N@n
@@ -2371,7 +2390,6 @@ Darunter da-'RUn-t6
 Darwin 'da6-vIn
 Darüber da-'Ry:-b6
 Das 'das
-Dasa 'da:-za:
 Dass 'das
 Dasselbe das-'zEl-b@
 Datenaustausch 'da:-t@n-?aUs-taUS
@@ -2649,6 +2667,8 @@ Direktoriums di:-REk-'to:-Ri:-Ums
 Dirk 'dI6k
 Disc 'dIsk
 Disco 'dIs-ko:
+Disko 'dIs-ko:
+Diskothek 'dIs-ko:-te:k
 Discount dIs-'kaUnt
 Discounter dIs-'kaUn-t6
 Diskont dIs-'kOnt
@@ -3004,6 +3024,8 @@ Einnahmen '?aI-na:-m@n
 Einnahmequelle '?aIn-na:-m@-kvE-l@
 Einrichtung '?aIn-RIC-tUN
 Einrichtungen '?aIn-RIC-tU-N@n
+Eins '?aIns
+eins '?aIns
 Einsamkeit '?aIn-za:m-kaIt
 Einsatz '?aIn-zats
 Einsatzes '?aIn-za-ts@s
@@ -3046,6 +3068,7 @@ Einzelstoffe '?aIn-ts@l-StO-f@
 Einzelteile '?aIn-ts@l-taI-l@
 Einzugsgebiet '?aIn-tsu:ks-g@-bi:t
 Eisbären '?aIs-bE:-R@n
+Eisbär '?aIs-bE:6
 Eisen '?aI-z@n
 Eisenbahner '?aI-z@n-ba:-n6
 Eisengitter '?aI-z@n-gI-t6
@@ -3336,6 +3359,7 @@ Erzählung ?E6-'tsE:-lUN
 Eröffnung ?E6-'?9f-nUN
 Eröffnungsfeier ?E6-'?9f-nUNs-faI-6
 Es '?Es
+es '?Es
 Eschweiler '?ES-vaI-l6
 Eskalation ?Es-ka:-la-'tsjo:n
 Eskapade ?Es-ka:-'pa:-d@
@@ -3606,11 +3630,14 @@ Felle 'fE-l@
 Fenster 'fEns-t6
 Fensterscheiben 'fEns-t6-SaI-b@n
 Ferdinand 'fE6-di:-nant
+Ferien 'fe:-Ri:-@n
+Ferienanfang 'fe:-Ri:-@n-?an-faN
 Fernando fE6-'nan-do:
 Ferner 'fE6-n6
 Fernost 'fE6n-?Ost
 Fernsehchef 'fE6n-ze:-SEf
-Fernsehen 'fE6n-ze:n
+Fernsehen 'fE6n-ze:-@n
+fernsehen 'fE6n-ze:-@n
 Fernsehlotterie 'fE6n-ze:-lO-t@-Ri:
 Fernsehsender 'fE6n-ze:-zEn-d6
 Fernsehunterhaltung 'fE6n-ze:-?Un-t6-hal-tUN
@@ -3707,6 +3734,7 @@ Fisch 'fIS
 Fischbach 'fIS-bax
 Fische 'fI-S@
 Fischer 'fI-S6
+Fischers 'fI-S6s
 Fischerdörfer 'fI-S6-d96-f6
 Fischerei fI-S@-'RaI
 Fischereikonzerne fI-S@-'RaI-kOn-tsE6-n@
@@ -4206,6 +4234,7 @@ Gehen 'ge:-@n
 Gehilfe g@-'hIl-f@
 Gehirn ge:-'hI6n
 Geht 'ge:t
+geht 'ge:t
 Gehweg 'ge:-ve:k
 Gehöfs g@-'h2:fs
 Gehöft g@-'h9ft
@@ -4912,6 +4941,7 @@ Haydns 'haIdns
 Headcrash 'hEt-krES
 Hebron 'he:-bROn
 Hechelns 'hE-C@lns
+Hecke 'hE-k@
 Hefebrot 'he:-f@-bRo:t
 Hefen 'he:-f@n
 Heft 'hEft
@@ -5141,6 +5171,9 @@ Homosexualität ho:-mo:-zE-ksu:-a-li:-'tE:t
 Homöopath ho:-m2:-o:-'pa:t
 Homöopathen ho:-m2:-o:-'pa:-t@n
 Honecker 'hO-nE-k6
+Honig 'ho:-nIC
+Honigkuchen 'ho:-nIC-ku:-x@n
+Honigkuchenpferd 'ho:-nIC-ku:-x@n-pfE6t
 Honjo 'hOn-jo:
 Honorar ho:-no:-'Ra:6
 Honsik 'hOn-zIk
@@ -5269,7 +5302,7 @@ Ich '?IC
 Ichon '?I-Co:n
 Ichwan '?IC-va:n
 Ida '?I-da:
-Idas '?I-da:s
+Idas '?I-das
 Ideal ?i:-de:-'a:l
 Idealbildern ?i:-de:-'a:l-bIl-d6n
 Ideale ?i:-de:-'a:-l@
@@ -5792,9 +5825,9 @@ Jun 'jUn
 Junction jUnk-'tsjo:n
 Jung 'jUN
 Jungaufsteiger 'jUN-?aUf-StaI-g6
-Junge 'jU-N@
-Jungen 'jU-N@n
-Junges 'jU-N@s
+Junge 'jUN-@
+Jungen 'jUN-@n
+Junges 'jUN-@s
 Jungfernfahrt 'jUN-f6n-fa:6t
 Jungfrau 'jUN-fRaU
 Jungregisseur 'jUN-Re:-Zi:-s2:6
@@ -5971,6 +6004,7 @@ Karte 'ka6-t@
 Kartellamt ka6-'tEl-?amt
 Karten 'ka6-t@n
 Kartoffeln ka6-'tO-f@ln
+Kartoffelauflauf ka6-'tO-f@l-?aUf-laUf
 Kartsport 'ka6t-SpO6t
 Kasachstan 'ka:-zax-sta:n
 Kasaner ka-'za:-n6
@@ -6132,6 +6166,8 @@ Klassenräume 'kla-s@n-ROY-m@
 Klassenzimmer 'kla-s@n-tsI-m6
 Klassifikation kla-si:-fi:-kats-'jo:n
 Klatsch 'klatS
+klatscht 'klatSt
+klatschen 'kla-tS@n
 Klatschmohn 'klatS-mo:n
 Klatschspalten 'klat-Spal-t@n
 Klaus 'klaUs
@@ -6170,7 +6206,12 @@ Klimakterium kli:-mak-'te:-Ri:-Um
 Klimakteriums kli:-mak-'te:-Ri:-Ums
 Klimaschutz 'kli:-ma:-SUts
 Klimke 'klIm-k@
-Klingelschmitt 'klI-N@l-SmIt
+Klingelschmitt 'klIN-@l-SmIt
+klingeln klIN-@ln
+klingen klIN-@n
+klingelt klIN-@lt
+klingelst klIN-@lst
+klingelte klIN-@lt@
 Klingnau 'klIN-naU
 Klingon 'klIN-g@n
 Klinik 'kli:-nIk
@@ -6455,6 +6496,9 @@ Kostüme kOs-'ty:-m@
 Kostümierung kOs-ty:-'mi:-RUN
 Kottbusser 'kOt-bU-s6
 Kou 'ku:
+Krabbe 'kRa-b@
+krabbeln 'kRa-b@ln
+krabbelt 'kRa-b@lt
 Kraft 'kRaft
 Kraftwerk 'kRaft-vE6k
 Kraftwerke 'kRaft-vE6-k@
@@ -6483,7 +6527,8 @@ Kreationen kRe:-a-'tsjo:-n@n
 Kreativität kRe:-a-ti:-vi:-'tE:t
 Kreatur kRe:-a-'tu:6
 Kreaturen kRe:-a-'tu:-R@n
-Krebs 'kRE:ps
+Krebs 'kRe:ps
+Krebse 'kRe:-ps@
 Kredite kRe:-'di:-t@
 Kreditkarten kRe:-'dIt-ka6-t@n
 Kreidfeuer 'kRaIt-fOY-6
@@ -6561,6 +6606,7 @@ Krüger 'kRy:-g6
 Ku'damm 'ku:-dam
 Kuba 'ku:-ba:
 Kubikmeter ku:-'bIk-me:-t6
+Kuchen 'ku:-x@n
 Kuchner 'ku:C-n6
 Kugeln 'ku:-g@ln
 Kuh 'ku:
@@ -6628,9 +6674,9 @@ Kämpfe 'kEm-pf@
 Kämpfen 'kEm-pf@n
 Kämpfer 'kEm-pf6
 Käpt'n 'kEptn
-Käse 'kE:-z@
-Käsefondues 'kE:-z@-fo~-dy:s
-Käserei kE:-z6-'RaI
+Käse 'ke:-z@
+Käsefondues 'ke:-z@-fo~-dy:s
+Käserei ke:-z6-'RaI
 Kätzchen 'kEts-C@n
 Käufer 'kOY-f6
 Kö 'k2:
@@ -6642,6 +6688,7 @@ Königlichen 'k2:-nIk-lI-C@n
 Königreich 'k2:-nIk-RaIC
 Königs 'k2:-nICs
 Können 'k9-n@n
+können 'k9-n@n
 Könner 'k9-n6
 Köpenick 'k2:-pE-nIk
 Köpfe 'k9-pf@
@@ -6688,6 +6735,7 @@ Laboratoriums la-bo:-Ra-'to:-Ri:-Ums
 Labour 'lEI-b6
 Labyrinth la-by:-'RInt
 Lachen 'la-x@n
+lachen 'la-x@n
 Lachs 'laks
 Ladd 'lat
 Laden 'la:-d@n
@@ -7130,6 +7178,7 @@ Léon 'le:-On
 Löcher 'l9-C6
 Löffel 'l9-f@l
 Löffler 'l9-fl6
+löffle 'l9-fl@
 Lörrach 'l9-Rax
 Löscharbeiten 'l9S-?a6-baI-t@n
 Lösung 'l2:-zUN
@@ -7465,7 +7514,7 @@ Menschenrechtsorganisation 'mEn-S@n-RECts-?O6-ga:-ni:-za-tsjo:n
 Menschenwürde 'mEn-S@n-vy:6-d@
 Menschheit 'mEnS-haIt
 Menschlichkeit 'mEnS-lIC-kaIt
-Menschwerdung 'mEnS-vE6-dUN
+Menschwerdung 'mEnS-vE:6-dUN
 Menstruation mEn-stRu:-a-'tsjo:n
 Menstruationen mEn-stRu:-a-'tsjo:-n@n
 Mentalität mEn-ta-li:-'tE:t
@@ -7787,7 +7836,7 @@ Moses 'mo:-z@s
 Moskau 'mOs-kaU
 Moslembrüder 'mOs-lEm-bRy:-d6
 Mosuo mo:-'zu:-o:
-Motiv mo:-'ti:v
+Motiv mo:-'ti:f
 Motive mo:-'ti:-v@
 Motoren mo:-'to:-R@n
 Motorrad mo:-'to:6-Ra:t
@@ -7859,8 +7908,8 @@ Mythologie my:-to:-lo:-'gi:
 Mythos 'my:-tOs
 Mäander mE-'an-d6
 Mächtigen 'mEC-tI-g@n
-Mädchen 'mE:t-C@n
-Mädchenladen 'mE:t-C@n-la:-d@n
+Mädchen 'me:t-C@n
+Mädchenladen 'me:t-C@n-la:-d@n
 Mäeutik mE-'OY-tIk
 Mähet 'mE:-@t
 Männer 'mE-n6
@@ -8105,6 +8154,7 @@ Neovitalismus ne:-o:-vi:-ta-'lIs-mUs
 Nepomuk 'ne:-po:-mUk
 Nerchau 'nE6-CaU
 Nervosität nE6-vo:-zi:-'tE:t
+Nerv 'nE6f
 Ness 'nEs
 Nestlinge 'nEst-lI-N@
 Nestlings 'nEst-lINs
@@ -8259,7 +8309,7 @@ Notstand 'no:t-Stant
 Notwendigkeit no:t-'vEn-dIC-kaIt
 Nou 'nOU
 Nova 'no:-va:
-Novelle no:-'vE-l@
+Novelle no:-'vE-l@-
 November no:-'vEm-b6
 Novize no:-'vi:-ts@
 Noviziat no:-vi:-tsi:-'a:t
@@ -8269,6 +8319,8 @@ Noviziates no:-vi:-tsi:-'a:-t@s
 Noviziats no:-vi:-tsi:-'a:ts
 Nowottny no:-'vOt-ni:
 Nuance nu:-'a~s
+Nudel 'nu:-d@l
+Nudelauflauf 'nu:-d@l-?aUf-laUf
 Nudelholz 'nu:-d@l-hOlts
 Nujoma nu:-'jo:-ma:
 Nuklearservice nu:-kle:-'ja:6-s96-vIs
@@ -8348,8 +8400,10 @@ Observationen ?o:p-zE6-va-'tsjo:-n@n
 Observatorium ?Op-zE6-va-'to:-Ri:-Um
 Observatoriums ?Op-zE6-va-'to:-Ri:-Ums
 Obst '?o:pst
+Obstsalat '?o:pst-za:-la:t
 Obszönitäten ?Ops-ts2:-ni:-'tE:-t@n
-Obwohl ?o:p-'vo:l
+Obwohl ?Op-'vo:l
+obwohl ?Op-'vo:l
 Occasions ?O-'kEI-Z@ns
 Ochsen '?Ok-s@n
 Oder '?o:-d6
@@ -8380,6 +8434,7 @@ Offset '?Of-sEt
 Oft '?Oft
 Ogooué '?o:-gu:-@
 Oh '?o:
+oh '?o:
 Oheim '?o:-haIm
 Ohne '?o:-n@
 Ohnmacht '?o:n-maxt
@@ -8394,7 +8449,8 @@ Okkasionen ?O-ka-'zjo:-n@n
 Oktaeders ?Ok-ta-'?e:-d6s
 Oktetts ?Ok-'tEts
 Oktober ?Ok-'to:-b6
-Oktoberfests ?Ok-'to:-b6-fEsts
+Oktoberfest ?Ok-'to:-b6-fEst
+Öl '?2:l
 Old '?o:ld
 Oldenburg '?Ol-d@n-bU6k
 Oldies '?ol-di:s
@@ -8808,10 +8864,11 @@ Perversion pE6-vE6-'zjo:n
 Perversionen pE6-vE6-'zjo:-n@n
 Pest 'pEst
 Pete 'pi:t
-Peter 'pi:-t6
-Peters 'pi:-t6s
+Peter 'pe:-t6
+Peters 'pe:-t6s
 Petersburg 'pe:-t6s-bU6k
 Peterson 'pe:-t6-s@n
+Petra pe:-tRa:
 Petri 'pe:t-RI
 Petroleum pe:-'tRo:-le:-Um
 Petroleums pe:-'tRo:-le:-Ums
@@ -8840,9 +8897,9 @@ Pfeil 'pfaIl
 Pfeile 'pfaI-l@
 Pfeiler 'pfaI-l6
 Pfennig 'pfE-nIC
-Pferd 'pfe:6t
-Pferde 'pfe:6-d@
-Pferden 'pfe:6-d@n
+Pferd 'pfE6t
+Pferde 'pfE6-d@
+Pferden 'pfE6-d@n
 Pfiesteria 'pfi:s-t@-Ri:-ja:
 Pfingsten 'pfINs-t@n
 Pflanze 'pflan-ts@
@@ -9393,6 +9450,7 @@ Publikum 'pu:-bli:-kUm
 Pubs 'paps
 Puccini pu:-'tSi:-ni:
 Puchheim 'pu:x-haIm
+Pudding 'pu-diN
 Pueblo pu:-'e:-blo:
 Pueblos pu:-'e:-blo:s
 Puerilität pu:-e:-Ri:-li:-'tE:t
@@ -9933,7 +9991,7 @@ Ringwood 'rIN-wu:d
 Rinne 'RI-n@
 Rippen 'RI-p@n
 Risiken 'Ri:-zi:-k@n
-Risiko 'Ri:-zI-ko:
+Risiko 'Ri:-zi:-ko:
 Ritter 'RI-t6
 Rittergüter 'RI-t6-gy:-t6
 Rittern 'RI-t6n
@@ -10015,6 +10073,8 @@ Rotation Ro:-tats-'jo:n
 Roten 'Ro:-t@n
 Roth 'Ro:t
 Rothley 'Ro:t-lEI
+Rothenburg 'Ro:-t@n-bU6k
+Rothenburger 'Ro:-t@n-bU6-g6
 Roton 'Ro:-to:n
 Rotschitza 'Ro:t-Si:-tsa:
 Rotstift 'Ro:t-StIft
@@ -10054,10 +10114,12 @@ Ruhestand 'Ru:-@-Stand
 Ruhetag 'Ru:-@-ta:k
 Ruhlsdorf 'Ru:ls-dO6f
 Ruhm 'Ru:m
+ruhmreich 'Ru:m-raIC
 Ruhpolding Ru:-'pOl-dIN
 Ruhrgebiet 'Ru:6-g@-bi:t
 Ruinen Ru:-'?i:-n@n
 Ruiz 'RUIts
+Rum 'RUm
 Rumflaschen 'RUm-fla-S@n
 Rumpelstilzchen 'RUm-p@l-sti:lts-C@n
 Rumpf 'RUmpf
@@ -10437,6 +10499,7 @@ Schneeberg 'Sne:-bE6k
 Schneepflug 'Sne:-pflu:k
 Schneidbrenner 'SnaIt-bRE-n6
 Schneider 'SnaI-d6
+Schneiderei SnaI-d6-'RaI
 Schnell 'SnEl
 Schnelligkeit 'SnE-lIC-kaIt
 Schnellste 'SnEls-t@
@@ -10450,6 +10513,7 @@ Schock 'SOk
 Schockemöhle 'SO-k@-m2:-l@
 Schocks 'SOks
 Schoko 'So:-ko:
+Schokolade 'So:-ko:-la:-d@
 Scholz 'SOlts
 Schon 'So:n
 School 'sku:l
@@ -10461,6 +10525,7 @@ Schott 'SOt
 Schoß 'So:s
 Schram 'SRa:m
 Schrank 'SRaNk
+Schraube 'SRaU-b@
 Schrauben 'SRaU-b@n
 Schraubengewinden 'SRaU-b@n-g@-vIn-d@n
 Schraubengewindes 'SRaU-b@n-g@-vIn-d@s
@@ -11021,11 +11086,11 @@ Spalt 'Spalt
 Spaltung 'Spal-tUN
 Spam 'spE:m
 Spangenberg 'Spa-N@n-bE6k
-Spaniel 'Spa:-ni:-e:l
-Spaniels 'Spa:-ni:-e:ls
-Spanien 'Spa:-ni:-j@n
-Spanier 'Spa:-ni:-j6
-Spaniers 'Spa:-ni:-j6s
+Spaniel 'Spa:-ni:-@l
+Spaniels 'Spa:-ni:-@ls
+Spanien 'Spa:-ni:-@n
+Spanier 'Spa:-ni:6
+Spaniers 'Spa:-ni:-6s
 Spaniol Spa-ni:-'o:l
 Spaniole Spa-ni:-'o:-l@
 Spaniolen Spa-ni:-'o:-l@n
@@ -11560,6 +11625,7 @@ Stärke 'StE6-k@
 Störung 'St2:-RUN
 Stövchen 'St2:v-C@n
 Stück 'StYk
+Stuck 'StUk
 Stückchen 'StYk-C@n
 Stücke 'StY-k@
 Stückes 'StY-k@s
@@ -12179,7 +12245,7 @@ Transozeandampfer tRans-'?o:-tse:-a:n-dam-pf6
 Transozeandampfern tRans-'?o:-tse:-a:n-dam-pf6n
 Transozeandampfers tRans-'?o:-tse:-a:n-dam-pf6s
 Transparenz tRans-pa-'REnts
-Transport tRans-'pORt
+Transport tRans-'pO6t
 Transportunternehmens tRans-'pO6t-?Un-t6-ne:-m@ns
 Trash 'trES
 Tratsch 'tRa:tS
@@ -12355,9 +12421,9 @@ Tümpel 'tYm-p@l
 Tür 'ty:6
 Türe 'ty:-R@
 Türen 'ty:-R@n
-Türkei tYR-'kaI
-Türkisch 'tYR-kIS
-Türmchen 'tYRm-C@n
+Türkei tY6-'kaI
+Türkisch 'tY6-kIS
+Türmchen 'tY6m-C@n
 Türrahmens 'ty:6-Ra:-m@ns
 Tüüüh 'ty:
 Tüüüüüh 'ty:
@@ -12950,7 +13016,7 @@ Volksvertreter 'fOlks-fE6-tRe:-t6
 Volkswagen 'fOlks-va:-g@n
 Volkswirtschaft 'fOlks-vI6t-Saft
 Vollbremsung 'fOl-bREm-zUN
-Volleyballer 'vO-le:-ba-l6
+Volleyballer 'vO-le:-bal-6
 Vollkommenheit fOl-'kO-m@n-haIt
 Volltreffer 'fOl-tRE-f6
 Vollziehung fOl-'tsi:-UN
@@ -13136,6 +13202,8 @@ Warum va-'RUm
 Warwick 'wO6-wIk
 Was 'vas
 Waschbär 'vaS-bE:6
+waschen 'va-S@n
+wasche 'va-S@
 Washington 'wO-SIN-t@n
 Washingtoner 'wO-SIN-tO-n6
 Washingtons 'wO-SIN-t@ns
@@ -13277,32 +13345,32 @@ Wende 'vEn-d@
 Wenig 've:-nIC
 Wenige 've:-nI-g@
 Wenn 'vEn
-Wer 'vE6
-Werben 'vE6-b@n
-Werbespots 'vE6-b@-spOts
-Werbetexte 'vE6-b@-tEks-t@
-Werbung 'vE6-bUN
-Werd 'vE6t
-Werdau 'vE6-daU
-Werden 'vE6-d@n
-Werder 'vE6-d6
-Werfel 'vE6-f@l
-Werfer 'vE6-f6
-Werk 'vERk
-Werkbund 'vERk-bUnt
-Werke 'vER-k@
-Werken 'vER-k@n
-Werkes 'vER-k@s
-Werkgemeinschaft 'vE6k-g@-maIn-Saft
-Werks 'vERks
-Werkspionage 'vE6k-Spi:-o:-na:-Z@
-Werkstatt 'vERk-Stat
-Werkzeug 'vE6k-tsOYk
-Werkzeuge 'vERk-tsOY-g@
-Werner 'vER-n6
-Werte 've:6-t@
-Werten 've:6-t@n
-Werther 've:6-t6
+Wer 'vE:6
+Werben 'vE:6-b@n
+Werbespots 'vE:6-b@-spOts
+Werbetexte 'vE:6-b@-tEks-t@
+Werbung 'vE:6-bUN
+Werd 'vE:6t
+Werdau 'vE:6-daU
+Werden 'vE:6-d@n
+Werder 'vE:6-d6
+Werfel 'vE:6-f@l
+Werfer 'vE:6-f6
+Werk 'vE:6k
+Werkbund 'vE:6k-bUnt
+Werke 'vE:6-k@
+Werken 'vE:6-k@n
+Werkes 'vE:6-k@s
+Werkgemeinschaft 'vE:6k-g@-maIn-Saft
+Werks 'vE:6ks
+Werkspionage 'vE:6k-Spi:-o:-na:-Z@
+Werkstatt 'vE:6k-Stat
+Werkzeug 'vE:6k-tsOYk
+Werkzeuge 'vE:6k-tsOY-g@
+Werner 'vE:6-n6
+Werte 'vE:6-t@
+Werten 'vE:6-t@n
+Werther 'vE:6-t6
 Wes' 'vEs
 Wesen 've:-z@n
 Wesenheit 've:-z@n-haIt
@@ -14158,11 +14226,11 @@ anbequemend '?an-b@-kve:-m@nt
 anberaumend '?an-b6-RaU-m@nt
 anbieten '?an-bi:-t@n
 and '?End
-andere '?an-d6-R@
-anderem '?an-d6-R@m
-anderen '?an-d6-R@n
-anderer '?an-d6-R6
-anderes '?an-d6-R@s
+andere '?an-d@-R@
+anderem '?an-d@-R@m
+anderen '?an-d@-R@n
+anderer '?an-d@-R6
+anderes '?an-d@-R@s
 andernorts '?an-d6n-?O6ts
 anders '?an-d6s
 anderswo '?an-d6s-vo:
@@ -14306,9 +14374,10 @@ antiimperialistische ?an-ti:-?Im-pe:-Ri:-a-'lIs-tI-S@
 antikonzeptionell '?an-ti:-kOn-tsEp-tsjo:-nEl
 antragsgemäß '?an-tRa:ks-g@-mE:s
 antreibend '?an-tRaI-b@nt
-antworten '?ant-vOR-t@n
-antwortet '?ant-vOR-t@t
-antwortete '?ant-vOR-t@-t@
+antworten '?ant-vO6-t@n
+antwortet '?ant-vO6-t@t
+antwortest '?ant-vO6-t@st
+antwortete '?ant-vO6-t@-t@
 anwerbend '?an-vE6-b@nt
 anwesend '?an-ve:-z@nt
 anwärmend '?an-vE6-m@nt
@@ -14815,7 +14884,7 @@ ausländischen '?aUs-lEn-dI-S@n
 ausläuft '?aUs-lOYft
 auslösbar '?aUs-l2:s-ba:6
 auslösen '?aUs-l2:-z@n
-ausmachen '?aUs-max-@n
+ausmachen '?aUs-ma-x@n
 ausmacht '?aUs-maxt
 ausnahmsweise '?aUs-na:ms-vaI-z@
 ausnehmend '?aUs-ne:-m@nt
@@ -14894,7 +14963,7 @@ bakteriell bak-te:-Ri:-'El
 bakteriologisch bak-te:-Ri:-o:-'lo:-gIS
 bald 'balt
 baltische 'bal-tI-S@
-banal ba-'na:l
+banal ba:-'na:l
 bankeigenen 'baNk-?aI-g@-n@n
 barockem ba-'RO-k@m
 basieren ba-'zi:-R@n
@@ -14917,8 +14986,8 @@ beachtet b@-'?ax-t@t
 beachtlich b@-'?axt-lIC
 beanspruchen b@-'?an-SpRUx-@n
 beansprucht b@-'?an-SpRUxt
-beantworten b@-'?ant-vOR-t@n
-beantwortet b@-'?ant-vOR-t@t
+beantworten b@-'?ant-vO6-t@n
+beantwortet b@-'?ant-vO6-t@t
 beatmend b@-'?a:t-m@nt
 bebaut b@-'baUt
 bed 'bEd
@@ -15175,6 +15244,10 @@ bestäubt b@-'StOYpt
 besucht b@-'zu:xt
 besuchte b@-'zu:x-t@
 beta 'be:-ta:
+beten 'be:-t@n
+betet 'be:-t@t
+betest 'be:-t@st
+bete 'be:-t@
 beteiligt b@-'taI-lICt
 beteiligte b@-'taI-lIC-t@
 betont b@-'to:nt
@@ -15275,6 +15348,12 @@ bitter 'bI-t6
 bitterböse bI-t6-'b2:-z@
 bitteschön 'bI-t@-S2:n
 bißchen 'bIs-C@n
+blamieren bla:-'mi:-R@n
+blamierende bla:-'mi:-R@n-d@
+blamiere bla:-'mi:-R@
+blamierst bla:-'mi:6st
+blamiert bla:-'mi:6t
+Blamage bla:-'ma:-Z@
 blanchiert bla~-'Si:6t
 blasen 'bla:-z@n
 blasse 'bla-s@
@@ -15337,10 +15416,13 @@ brachte 'bRax-t@
 brandaktuell bRant-?ak-tu:-'El
 brandenburgischen 'bRan-d@n-bU6-gI-S@n
 brannten 'bRan-t@n
-brauche 'bRaUx-@
-brauchen 'bRaUx-@n
+brauche 'bRaU-x@
+brauchen 'bRaU-x@n
 braucht 'bRaUxt
 braun 'bRaUn
+brav 'bRa:f
+brave 'bRa:-v@
+braver 'bRa:-v6
 breiig 'bRaI-IC
 breit 'bRaIt
 breite 'bRaI-t@
@@ -15357,6 +15439,7 @@ bronchial bROnC-'ja:l
 brutalstmöglich bRu:-'ta:lst-m2:k-lIC
 bryon bRy:-'o~
 bräuchten 'bROYC-t@n
+bräuchte 'bROYC-t@
 bröckelten 'bR9-kEl-t@n
 brühig 'bRy:-IC
 brütet 'bRy:-t@t
@@ -15645,8 +15728,8 @@ dominierten do:-mi:-'ni:6-t@n
 donnerstags 'dO-n6s-ta:ks
 doppelten 'dO-pEl-t@n
 doppelter 'dO-pEl-t6
-dort 'dORt
-dorthin 'dORt-hIn
+dort 'dO6t
+dorthin 'dO6t-hIn
 dotiert do:-'ti:6t
 down 'daUn
 drahtig 'dRa:-tIC
@@ -15661,6 +15744,10 @@ drehte 'dRe:-t@
 drei 'dRaI
 dreidimensional 'dRaI-di:-mEn-zjo:-na:l
 dreieinhalb dRaI-?aIn-'halp
+dreihundert 'dRaI-hUn-d6t
+dreihundertdrei 'dRaI-hUn-d6t-dRaI
+dreihundertdreiunddreißig 'dRaI-hUn-d6t-dRaI-Unt-dRaI-sIC
+dreihundertdreißig 'dRaI-hUn-d6t-dRaI-sIC
 dreimal 'dRaI-ma:l
 dreinull dRaI-'nUl
 dreissigster 'dRaI-sIC-st6
@@ -15751,10 +15838,10 @@ dörrt 'd9Rt
 dülfern 'dYl-f6n
 dünn 'dYn
 dünne 'dY-n@
-dürfe 'dYR-f@
-dürfen 'dYR-f@n
-dürfte 'dYRf-t@
-dürften 'dYRf-t@n
+dürfe 'dY6-f@
+dürfen 'dY6-f@n
+dürfte 'dY6f-t@
+dürften 'dY6f-t@n
 e '?e:
 easy '?i:-zi:
 eben '?e:-b@n
@@ -15938,7 +16025,7 @@ einundneunzig ?aIn-?Unt-'nOYn-tsIC
 einundsechzig ?aIn-?Unt-'zEC-tsIC
 einundvierzig ?aIn-?Unt-'fIR-tsIC
 einundzwanzig ?aIn-?Unt-'tsvan-tsIC
-einundzwanzigsten ?aIn-?Unt-'tsvan-tsIC-st@n
+einundzwanzigsten ?aIn-?Unt-'tsvan-tsIk-st@n
 einverleibend '?aIn-fE6-laI-b@nt
 einwandfrei '?aIn-vant-fRaI
 einzehig '?aIn-tse:-IC
@@ -16066,6 +16153,8 @@ entideologisiertet ?Ent-?i:-de:-o:-lo:-gi:-'zi:6-t@t
 entkommen ?Ent-'kO-m@n
 entkommend ?Ent-'kO-m@nt
 entkommt ?Ent-'kOmt
+entladen ?Ent-'la:-d@n
+Entladung ?Ent-'la:-dUN
 entlang ?Ent-'laN
 entlarvt ?Ent-'laRft
 entlassen ?Ent-'la-s@n
@@ -16318,7 +16407,8 @@ eselsmilch '?e:-zEls-mIlC
 eskalierten ?Es-ka-'li:6-t@n
 essayistisch ?E-se:-'Is-tIS
 essen '?E-s@n
-essential ?I-'sEn-'tS@l
+esse '?E-s@
+esst '?Est
 essentiell ?E-sEn-'tsjEl
 et 'e:
 etablieren ?e:-ta:-'bli:-R@n
@@ -16421,8 +16511,8 @@ felsige 'fEl-zI-g@
 fernbleibend 'fE6n-blaI-b@nt
 ferne 'fER-n@
 fernöstlich fE6n-'?9st-lIC
-fertig 'fER-tIC
-fertige 'fER-tI-g@
+fertig 'fE6-tIC
+fertige 'fE6-tI-g@
 fertigstellen 'fER-tIC-StE-l@n
 fertigte 'fER-tIC-t@
 fest 'fEst
@@ -16548,7 +16638,7 @@ freistehenden 'fRaI-Ste:-@n-d@n
 freiwillig 'fRaI-vI-lIC
 freiwilliger 'fRaI-vI-lI-g6
 freizukriegen 'fRaI-tsu:-kRi:-g@n
-freizumachen 'fRaI-tsu:-max-@n
+freizumachen 'fRaI-tsu:-ma-x@n
 fremd 'fREmt
 fremdes 'fREm-d@s
 frenetisch fRe:-'ne:-tIS
@@ -16933,7 +17023,7 @@ geringer g@-'RIN-6
 germanisch gE6-'ma:-nIS
 germanische gE6-'ma:-nI-S@
 gern 'gERn
-gerne 'gER-n@
+gerne 'gE6-n@
 gerufen g@-'Ru:-f@n
 gerutscht g@-'RUtSt
 gerädert g@-'RE:-d6t
@@ -17189,6 +17279,9 @@ grünes 'gRy:-n@s
 grünliche 'gRy:n-lI-C@
 grüß 'gRy:s
 grüßen 'gRy:-s@n
+gruselig 'gRu:-s@-lIC
+gruseln 'gRu:-s@ln
+Grusel 'gRu:-s@l
 guck 'gUk
 gucken 'gU-k@n
 gusseisern 'gUs-?aI-z6n
@@ -17232,7 +17325,7 @@ halt 'halt
 haltbare halt-'ba:-R@
 halte 'hal-t@
 halten 'hal-t@n
-haltmachen 'halt-max-@n
+haltmachen 'halt-ma-x@n
 handeln 'han-d@ln
 handelnd 'han-d@lnt
 handelt 'han-d@lt
@@ -17270,6 +17363,7 @@ hatte 'ha-t@
 hatten 'ha-t@n
 hattest 'ha-t@st
 hauchte 'haUx-t@
+hauchen 'haU-x@n
 hauptamtliche 'haUpt-?amt-lI-C@
 hauptberuflich 'haUpt-b@-Ru:f-lIC
 hauptsächlich 'haUpt-zEC-lIC
@@ -17405,6 +17499,8 @@ hinausschiebend hI-'naUs-Si:-b@nt
 hinaustreibend hI-'naUs-tRaI-b@nt
 hindurch hIn-'dURC
 hinein hi:-'naIn
+hineingegangen hI-'naIn-g@-gaN-@n
+hineingehen hI-'naIn-ge:-@n
 hineingezogen hi:-'naIn-g@-tso:-g@n
 hinfällig 'hIn-fE-lIC
 hinführen 'hIn-fy:-R@n
@@ -17927,7 +18023,10 @@ knurrende 'knU-R@n-d@
 knüpft 'knYpft
 koalieren ko:-a-'li:-R@n
 koalisieren ko:-a-li:-'zi:-R@n
-kochen 'kOx-@n
+kochen 'kO-x@n
+koche 'kO-x@
+kocht 'kOxt
+kochst 'kOxst
 koischer 'ko:-i:-S6
 koitieren ko:-i:-'ti:-R@n
 kollegial kO-le:g-'ja:l
@@ -18032,6 +18131,8 @@ kooptiertet ko:-?Op-'ti:6-t@t
 kopf 'kOpf
 kopfüber 'kOpf-?y:-b6
 kopierte ko:-'pi:6-t@
+kopieren ko:-'pi:-R@n
+kopiert ko:-'pi:6t
 kordial kO6-di:-'a:l
 koreanisch ko:-Re:-'a:-nIS
 koreanische ko:-Re:-'a-nI-S@
@@ -18378,7 +18479,7 @@ lügt 'ly:kt
 m '?Em
 mach 'max
 mach' 'max
-machen 'max-@n
+machen 'ma-x@n
 machiavellistisch mak-ja-vE-'lIs-tIS
 macho 'ma-tSo:
 machst 'maxst
@@ -18411,6 +18512,7 @@ manchen 'man-C@n
 mancherorts 'man-C6-?ORts
 manches 'man-C@s
 manchmal 'manC-ma:l
+Manchmal 'manC-ma:l
 mandeläugig 'man-d@l-?OY-gIC
 manganarm maN-'ga:n-?a:6m
 manuell ma-nu:-'El
@@ -18630,6 +18732,7 @@ männlichen 'mEn-lI-C@n
 mäßig 'mE:-sIC
 möchte 'm9C-t@
 möchten 'm9C-t@n
+möchtest 'm9C-t@st
 möge 'm2:-g@
 mögen 'm2:-g@n
 möglich 'm2:k-lIC
@@ -18764,6 +18867,7 @@ neonazistisch 'ne:-o:-na-tsIs-tIS
 neotropisch ne:-o:-'tRo:-pIS
 nervenberuhigend 'nE6-f@n-b6-Ru:-i:-g@nt
 nervöser nE6-'v2:-z6
+nervös nE6-'v2:s
 nett 'nEt
 nette 'nE-t@
 netter 'nE-t6
@@ -18786,7 +18890,7 @@ neunundachtzig nOYn-?Unt-'?ax-tsIC
 neunundneunzig nOYn-?Unt-'nOYn-tsIC
 neunundsechzig nOYn-?Unt-'zEC-tsIC
 neunundvierzig nOYn-?Unt-'vI6-tsIC
-neunundzwanzigsten nOYn-?Unt-'tsvan-tsIC-st@n
+neunundzwanzigsten nOYn-?Unt-'tsvan-tsIk-st@n
 neunzehn 'nOYn-tse:n
 neunzehnhundertachtunddreißig nOYn-tse:n-hUn-d6t-?axt-?Unt-'dRaI-sIC
 neunzehnhundertachtundsiebzig nOYn-tse:n-hUn-d6t-?axt-?Unt-'zi:p-tsIC
@@ -19411,6 +19515,8 @@ reinlichkeitsliebenden 'RaIn-lIC-kaIts-li:-b@n-d@n
 reinlichkeitsliebender 'RaIn-lIC-kaIts-li:-b@n-d6
 reinlichkeitsliebendes 'RaIn-lIC-kaIts-li:-b@n-d@s
 reisen 'RaI-z@n
+reist 'RaIst
+Reist 'RaIst
 reitet 'RaI-t@t
 reizen 'RaI-ts@n
 reizvoll 'RaIts-fOl
@@ -19468,8 +19574,8 @@ riecht 'Ri:Ct
 rief 'Ri:f
 riefen 'Ri:-f@n
 riemend 'Ri:-m@nt
-riesige 'Ri:-zI-g@
-riesigen 'Ri:-zI-g@n
+riesige 'Ri:-zi:-g@
+riesigen 'Ri:-zi:-g@n
 rigoros RI-go:-'Ro:s
 ringsum RINs-'?Um
 ringsumher RINs-?Um-'he:6
@@ -19564,6 +19670,7 @@ sang 'zaN
 sank 'zaNk
 sanktionieren zaNk-tsjo:-'ni:-R@n
 sauer 'zaU-6
+Sauerkraut 'zaU6-kRaUt
 saufende 'zaU-f@n-d@
 saugen 'zaU-g@n
 saugfähig 'zaUk-fE:-IC
@@ -19693,9 +19800,9 @@ schwacher 'Svax-6
 schwachsichtig 'Svax-zIC-tIC
 schwanger 'SvaN-6
 schwankt 'SvaNkt
-schwarz 'SvaRts
-schwarze 'SvaR-ts@
-schwarzer 'SvaR-ts6
+schwarz 'Sva6ts
+schwarze 'Sva6-ts@
+schwarzer 'Sva6-ts6
 schwedisch 'Sve:-dIS
 schwedische 'Sve:-dI-S@
 schwedischer 'Sve:-dI-S6
@@ -19750,7 +19857,7 @@ sechsundsechzig zEks-?Unt-'zEC-tsIC
 sechsundsiebzig zEks-?Unt-'zi:p-tsIC
 sechsundvierzig zEks-?Unt-'vIR-tsIC
 sechsundzwanzig zEks-?Unt-'tsvan-tsIC
-sechsundzwanzigsten zEks-?Unt-'tsvan-tsIC-st@n
+sechsundzwanzigsten zEks-?Unt-'tsvan-tsIk-st@n
 sechzehn 'zEC-tse:n
 sechzehnten 'zEC-tse:n-t@n
 sechzehnterzwölfter zEC-tse:n-t6-'tsv9lf-t6
@@ -19816,6 +19923,7 @@ serbokroatisch zE6-bo:-kRo:-'a:-tIS
 seriell ze:-Ri:-'El
 serielle ze:-Ri:-'E-l@
 seriös ze:-Ri:-'2:s
+servieren zE6-'vi:-R@n
 setze 'zE-ts@
 setzen 'zE-ts@n
 setzt 'zEtst
@@ -19973,6 +20081,7 @@ spanisch 'Spa:-nIS
 spanische 'Spa:-nI-S@
 spanischen 'Spa:-nI-S@n
 spannend 'Spa-n@nt
+spannende 'Spa-n@n-d@
 spannendes 'Spa-n@n-d@s
 spannendste 'Spa-n@nt-st@
 spannfähigere 'Span-fE:-I-g6-R@
@@ -19982,6 +20091,9 @@ spannungslos 'Spa-nUNs-lo:s
 spannungsreiches 'Spa-nUNs-RaI-C@s
 sparen 'Spa:-R@n
 spart 'Spa:6t
+spazieren 'Spa:-tsi:-R@n
+spaziere 'Spa:-tsi:-R@
+Spaziergang 'Spa:-tsi:6-gaN
 speichert 'SpaI-C6t
 speist 'SpaIst
 spektakulär SpEk-ta-kU-'lE:6
@@ -19996,6 +20108,7 @@ spielberechtigt 'Spi:l-b@-REC-tICt
 spiele 'Spi:-l@
 spielen 'Spi:-l@n
 spielfrei 'Spi:l-fRaI
+spielst 'Spi:lst
 spielt 'Spi:lt
 spielte 'Spi:l-t@
 spielten 'Spi:l-t@n
@@ -20180,6 +20293,7 @@ stubenreinen 'Stu:-b@n-RaI-n@n
 stubenreiner 'Stu:-b@n-RaI-n6
 studentische Stu:-'dEn-tI-S@
 studieren Stu:-'di:-R@n
+studiere Stu:-'di:-R@
 studiert Stu:-'di:6t
 studierte Stu:-'di:6-t@
 stumm 'StUm
@@ -20242,6 +20356,10 @@ südspanisch 'zy:t-Spa:-nIS
 südwestlich sy:t-'vEst-lIC
 südöstlich zy:t-'?9st-lIC
 süß 'zy:s
+süße 'zy:-s@
+süßer 'zy:-s6
+süßes 'zy:-s@s
+süßen 'zy:-s@n
 t 'te:
 tabellarisiere ta-bEl-a-Ri:-'zi:-R@
 tabellarisieren ta-bEl-a-Ri:-'zi:-R@n
@@ -20966,7 +21084,10 @@ verputzen fE6-'pU-ts@n
 verrammend fE6-'Ra-m@nt
 verraten fE6-'Ra:-t@n
 verreibend fE6-'RaI-b@nt
-verroht fE6-'Ro:t
+verreist fE6-'RaIst
+verreisen fE6-'RaI-z@n
+verreise fE6-'RaI-z@
+verroht fE6-'Ro:t 
 versagen fE6-'za:-g@n
 versammelten fE6-'za-m@l-t@n
 verschicken fE6-'SI-k@n
@@ -21102,7 +21223,7 @@ vierten 'fi:6-t@n
 vierundsechzig fi:6-?Unt-'zEC-tsIC
 vierundsechziger fi:6-?Unt-'zEC-tsI-g6
 vierundsiebzig fi:6-?Unt-'zi:p-tsIC
-vierundzwanzigsten fi:6-?Unt-'tsvan-tsIC-st@n
+vierundzwanzigsten fi:6-?Unt-'tsvan-tsIk-st@n
 vierzehn 'fI6-tse:n
 vierzehnte 'fI6-tse:n-t@
 vierzehnten 'fI6-tse:n-t@n
@@ -21120,6 +21241,7 @@ virtuos vI6-tu:-'o:s
 visionär vi:-zi-o:-'nE:6
 visualisieren vi:-zu:-a-li:-'zi:-R@n
 visuell vi:-zu:-'El
+Visum 'vi:-zum
 voigtländischer 'fo:kt-lEn-dI-S6
 volkswirtschaftlich 'fOlks-vI6t-Saft-lIC
 voll 'fOl
@@ -21175,7 +21297,7 @@ vorkommend 'fo:6-kO-m@nt
 vorkommendes 'fo:6-kO-m@n-d@s
 vorliebnehmend 'fo:6-li:p-ne:-m@nt
 vorläufig 'fo:6-lOY-fIC
-vormachen 'fo:6-max-@n
+vormachen 'fo:6-ma-x@n
 vormals 'fo:6-ma:ls
 vorne 'fOR-n@
 vornehmend 'fo:6-ne:-m@nt
@@ -21340,7 +21462,7 @@ weiterhelfendes 'vaI-t6-hEl-f@n-d@s
 weiterhin 'vaI-t6-hIn
 weiterkommend 'vaI-t6-kO-m@nt
 weiterlenkte 'vaI-t6-lENk-t@
-weitermachen 'vaI-t6-max-@n
+weitermachen 'vaI-t6-ma-x@n
 weitesten 'vaI-t@s-t@n
 weitgehend 'vaIt-ge:-@nt
 weitgreifend 'vaIt-gRaI-f@nt
@@ -21386,9 +21508,9 @@ wennste 'vEn-st@
 wenn’s 'vEns
 wer 'vE6
 werbend 'vE6-b@nt
-werde 'vE6-d@
-werden 'vE6-d@n
-werdendes 'vE6-d@n-d@s
+werde 'vE:6-d@
+werden 'vE:6-d@n
+werdendes 'vE:6-d@n-d@s
 werfen 'vE6-f@n
 werkgetreue 'vE6k-ge:-tROY-@
 wertlos 've:6t-lo:s
@@ -21494,8 +21616,8 @@ witzsprühend 'vIts-SpRy:-@nt
 wo 'vo:
 woanders vo:-'?an-d6s
 wobei vo:-'baI
-wochenends 'vOx-@n-?Ents
-wochentags 'vOx-@n-ta:ks
+wochenends 'vO-x@n-?Ents
+wochentags 'vO-x@n-ta:ks
 wodurch vo:-'dURC
 wogte 'vo:k-t@
 woher vo:-'he:6
@@ -22177,8 +22299,8 @@ zuäußerst tsu:-'?OY-s6st
 zwangsweise 'tsvaNs-vaI-z@
 zwanzig 'tsvan-tsIC
 zwanziger 'tsvan-tsI-g6
-zwanzigsten 'tsvan-tsIC-st@n
-zwanzigster 'tsvan-tsIC-st6
+zwanzigsten 'tsvan-tsIk-st@n
+zwanzigster 'tsvan-tsIk-st6
 zwar 'tsva:6
 zweckgemäß 'tsvEk-g@-mE:s
 zweckwidrig 'tsvEk-vi:-dRIC
@@ -22377,7 +22499,9 @@ zünftig 'tsYnf-tIC
 ältester '?El-t@s-t6
 ändern '?En-d6n
 änderte '?En-d6-t@
-ängstliche '?ENst-lI-C@
+ängstliche '?EN-stlI-C@
+ängstlichen '?EN-stlI-C@n
+ängstlich '?EN-stlIC
 äquatorial ?E-kva:-to:-Ri:-'a:l
 äquinoktial ?E-kvi:-nOk-tsi:-'a:l
 ärgern '?E6-g6n
@@ -24273,6 +24397,8 @@ Argentiniens ?a6-gEn-'ti:-ni:-Ens
 Berlinale bE6-li:-'na:-l@
 jährlichen 'jE:6-lI-C@n
 Balkan 'bal-ka:n
+Balkon 'bal-ko:n
+Balkone 'bal-ko:n@
 laufenden 'laU-f@n-d@n
 Einordnung 'aIn-?O6-dnUN
 erklärten ?E6-'klE:6-t@n
@@ -24473,6 +24599,7 @@ Erstellung ?E6-'StE-lUN
 Ältere 'El-t6-R@
 moralische mo:-'Ra:-lI-S@
 Meeres 'me:-R@s
+Meere 'me:-R@
 gelernt g@-'lE6nt
 Sahara za-'ha:-Ra:
 Alternativen ?al-t6-na-'ti:-v@n
@@ -25018,7 +25145,7 @@ Fertigstellung 'fE6-tIC-stE-lUN
 Teils 'taIls
 deutsches 'dOY-tS@s
 Voyager 'vOY-@-dZ6
-werdenden 'vE6-d@n-d@n
+werdenden 'vE:6-d@n-d@n
 Urteile '?U6-taI-l@
 kaiserliche 'kaI-z6-lI-C@
 Grzimek 'dZI-mEk
@@ -25120,7 +25247,7 @@ harten 'ha6-t@n
 günstigen 'gYns-tI-g@n
 protestantische pRo:-tEs-'tan-tI-S@
 Galaxie ga-lak-'si:
-Kanadas 'ka-na-da:s
+Kanada 'ka-na-da
 Marxismus ma6-'ksIs-mUs
 Persien 'pE6-zi:-@n
 Fermi 'fE6-mi:
@@ -25696,7 +25823,8 @@ absolvierte ?ap-zOl-'vi:6-t@
 Rechnen 'REC-n@n
 Fabriken fab-'Ri:-k@n
 Fortpflanzung 'fO6t-pflan-tsUN
-Spaniens 'Spa:-ni:-Ens
+Spaniens 'Spa:-ni:-@ns
+Spanien 'Spa:-ni:-@n
 untersuchten ?Un-t6-'zu:x-t@n
 fester 'fEs-t6
 Verpflichtung fE6-'pflIC-tUN
@@ -26485,7 +26613,8 @@ Hofmann
 Erhitzen
 gleichgesetzt
 boolesche
-Strand
+Strand 'StRant
+Strandurlaub 'StRant-?u:6-laUp
 symbolischen
 vorzeitig
 Weniger
@@ -27355,7 +27484,7 @@ spürbar
 Unfälle
 Hormon
 israelische
-Baby
+Baby 'be:-bi:
 Gottesdienste
 akademischen
 Versailler
@@ -27431,7 +27560,7 @@ laufende
 ergriffen
 Grundsatz
 Klöstern
-Bär
+Bär 'bE:6
 Ems
 abgeschnitten
 künftige
@@ -27473,7 +27602,6 @@ Anaximander
 Erliegen
 Leutnant
 Zaren
-Kopieren
 Empfang
 Tucholskys
 Innenpolitik
@@ -27879,7 +28007,6 @@ kreuzen
 Jelly
 Transistoren
 enthielten
-kopiert
 analytischen
 bestritten
 Nordeuropa
@@ -27925,7 +28052,7 @@ Breiten
 Flughöhe
 argumentieren
 verschaffte
-Hunde
+Hunde 'hun-d@
 innehatte
 ernennt
 Computing
@@ -28280,7 +28407,10 @@ Grönlands
 Gastronomie
 Strahlen
 Project
-Rauchen
+rauchen 'RaU-x@n
+rauchende 'RaU-x@n-d@
+rauche 'RaU-x@
+Raucher 'RaU-x6
 Düne
 notierte
 Südosteuropa
@@ -28771,7 +28901,6 @@ Einigkeit
 gegenseitigen
 Aktiengesellschaft
 Granulozyten
-Meere
 Heckel
 behindert
 repräsentativen
@@ -30144,7 +30273,7 @@ vorzubeugen
 dei
 Arbeitsplatz
 humanitäre
-Knie
+Knie 'kni:-@
 Quartier
 Anatolien
 Verminderung
@@ -31310,7 +31439,7 @@ Giftgas
 Verschwörer
 Notenbank
 Goldes
-schräg
+schräg SRE:k
 islamischer
 Dienstag
 Regierungsgeschäfte
@@ -32670,7 +32799,8 @@ Patagonien
 Sträucher
 Abwehrzellen
 Carrier
-leuchtet
+leuchtet 'lOYC-t@t
+leuchten 'lOYC-t@n
 asiatischer
 Clausius
 BASF
@@ -33068,7 +33198,7 @@ Bevölkerungsentwicklung
 statische
 Primfaktorzerlegung
 Limburg
-Volleyball
+Volleyball 'vO-le:-bal
 neigt
 Kurtz
 längs
@@ -33519,7 +33649,7 @@ Güte
 Übersetzer
 Huxley
 weicher
-Wochenenden
+Wochenenden 'vO-x@n-?En-d@n
 zyklische
 Seiende
 feinen
@@ -34544,7 +34674,6 @@ abläuft
 quadratischen
 Revolutionsregierung
 Philipps
-kopieren
 Nächten
 Vertiefung
 Prinzipats
@@ -34988,7 +35117,7 @@ Qt
 verschlechterten
 ZX
 Josephus
-Husten
+Husten - 'hu:s-t@n
 eV
 Arktis
 au
@@ -35970,7 +36099,7 @@ Term
 irrationale
 Ostrand
 mitteilen
-Salat
+Salat za:-'la:t
 wirkungslos
 Entladestrom
 Hippie
@@ -36216,7 +36345,7 @@ Massenmarkt
 Unschuld
 abdeckt
 Liszt
-Flughunde
+Flughunde 'flu:k-hUn-d@
 transzendentalen
 Siedlungsgebiet
 Sekundarstufe
@@ -36256,7 +36385,7 @@ katalysieren
 einzigartiges
 aufstrebende
 Einfuhr
-Infinitiv
+Infinitiv '?In-fi:-ni:-ti:f
 Reputation
 alla
 Termine
