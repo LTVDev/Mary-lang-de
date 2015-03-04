@@ -1,4 +1,4 @@
-# #########################################################################
+﻿# #########################################################################
 # Copyright 2009-2010 DFKI GmbH.
 # All Rights Reserved.  Use is subject to license terms.
 #
@@ -24397,7 +24397,7 @@ Argentiniens ?a6-gEn-'ti:-ni:-Ens
 Berlinale bE6-li:-'na:-l@
 jährlichen 'jE:6-lI-C@n
 Balkan 'bal-ka:n
-Balkon 'bal-ko:n
+Balkon bal-'ko:n
 Balkone 'bal-ko:n@
 laufenden 'laU-f@n-d@n
 Einordnung 'aIn-?O6-dnUN
